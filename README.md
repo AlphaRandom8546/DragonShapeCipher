@@ -13,6 +13,6 @@ python -m pip install PyQt5
 
 ## 说明
 
-仅供娱乐
-`main.py` 为具有用户界面的 Python PyQt5 程序，需要依赖 PyQt5 库运行
-`main.ps1` 为 Powershell .ps1 脚本，无需任何依赖库，可直接运行
+仅供娱乐 <br/>
+`main.py` 为具有用户界面的 Python PyQt5 程序，需要依赖 PyQt5 库运行 <br/>
+`main.ps1` 为 Powershell .ps1 脚本，无需任何依赖库，可直接运行 <br/>
